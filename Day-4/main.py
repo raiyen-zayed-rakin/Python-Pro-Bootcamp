@@ -1,5 +1,5 @@
 import random
-
+import my_module
 
 # print("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.")
 
@@ -20,6 +20,11 @@ import random
 #     print("You - Scissors, Comm - Paper, YOU WIN")
 
 
+# random_integer = random.randint(1, 10)
+# print(random_integer)
 
+random_float = random.random()
+print(random_float)
 
-
+love_score = random.randint(1, 100)
+print(f"your love score is {love_score}")
