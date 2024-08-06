@@ -1,0 +1,10 @@
+PascaCase = Class
+snake_case = attributes/variable
+camelCase = not much used in python
+
+to make constructor, have to use init function:
+    syntax -- def __init__(self)
+
+
+IMPORTANT DAYS-
+Day 17

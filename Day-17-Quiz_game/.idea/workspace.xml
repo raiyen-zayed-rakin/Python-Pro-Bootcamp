@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2cd8384-3c4e-4165-bde9-102037101122" name="Changes" comment="" />
+    <list default="true" id="f2d21cc1-3899-4f83-91d5-88b44e921a53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/rvw" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +31,9 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2jwjRAebdFVYk5L6yPras8RKSNU" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2kH9DndGD9S5qSYWE8oGuY42gnT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,8 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Courses/100 Days of Code Python Pro Bootcamp/Python-Pro-Bootcamp/test"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -50,11 +54,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2cd8384-3c4e-4165-bde9-102037101122" name="Changes" comment="" />
-      <created>1722305022900</created>
+      <changelist id="f2d21cc1-3899-4f83-91d5-88b44e921a53" name="Changes" comment="" />
+      <created>1722929517828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1722305022900</updated>
+      <updated>1722929517828</updated>
     </task>
     <servers />
   </component>
