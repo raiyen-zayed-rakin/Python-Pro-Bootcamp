@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-17-Quiz_game/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-18-Turtle_Graphics_Art/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-19-Etch_a_Sketch/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-20-21-Snake_Game/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
