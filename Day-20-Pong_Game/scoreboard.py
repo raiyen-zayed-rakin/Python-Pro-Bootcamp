@@ -10,6 +10,7 @@ class ScoreBoard(Turtle):
         self.l_score = 0
         self.r_score = 0
         self.update_scoreboard()
+        # self.write("|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n", align="center", font=("Courier", 60, "normal"))
 
     def update_scoreboard(self):
         self.clear()
