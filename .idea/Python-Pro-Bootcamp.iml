@@ -13,6 +13,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-25_US_States_Game/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-25_US_States_Game/US-States-Game/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-26-NATO_Phonetic_Alphabet/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-27-Unit_Converter/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
