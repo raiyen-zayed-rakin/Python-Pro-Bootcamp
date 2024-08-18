@@ -15,6 +15,8 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-26-NATO_Phonetic_Alphabet/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-27-Unit_Converter/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-28-Pomodoro/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-29-Password_Manager/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-30-Error_Exception_JSON/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

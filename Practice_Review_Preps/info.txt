@@ -9,3 +9,8 @@ to make constructor, have to use init function:
 IMPORTANT DAYS-
 Day 17
 Day 18
+
+JSON - JavaScript Object Notation
+json.dump() - Write
+json.load() - Read
+json.update() - Update
