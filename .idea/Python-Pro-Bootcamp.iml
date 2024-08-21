@@ -18,6 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-29-Password_Manager/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-30-Error_Exception_JSON/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-31-Flashcard_Program/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-32-Automated_Birthday_Wisher/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
