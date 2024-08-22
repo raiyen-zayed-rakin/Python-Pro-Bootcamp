@@ -4,7 +4,7 @@ import pandas
 import smtplib
 
 MY_EMAIL = "rakinudemy@gmail.com"
-MY_PASSWORD = "ffnfxonbgemldmnp"
+MY_PASSWORD = "abcd24()"
 
 today = (datetime.now().month, datetime.now().day)
 data = pandas.read_csv("birthdays.csv")
