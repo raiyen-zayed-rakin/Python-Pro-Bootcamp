@@ -20,6 +20,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-31-Flashcard_Program/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-32-Automated_Birthday_Wisher/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-33-ISS_Overhead_Notifier/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-34-Quizzler_App/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
