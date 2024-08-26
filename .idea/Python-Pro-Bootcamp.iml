@@ -21,6 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-32-Automated_Birthday_Wisher/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-33-ISS_Overhead_Notifier/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-34-Quizzler_App/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-35-Rain_Alert/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
