@@ -4,8 +4,8 @@ from twilio.rest import Client
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/forecast"
 api_key = "508100b9b2590e9b616bd81e0d1c86ee"
 
-account_sid = "AC57e5f19e4712240b571ff2aaa69fd083"
-auth_token = "ba3dabc32c1013caa095c327eb3b188c"
+account_sid = "test"
+auth_token = "test"
 
 MY_LAT = 23.810331
 MY_LONG = 90.412521
