@@ -24,6 +24,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-35-Rain_Alert/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-36-Stock_Trading_News_Alert/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-37-Habit_Tracker/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-38-Workout_Tracker/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
