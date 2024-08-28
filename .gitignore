@@ -5,7 +5,6 @@ __pycache__/
 
 # C extensions
 *.so
-Day-37-Habit_Tracker/main.py
 # Distribution / packaging
 .Python
 build/
