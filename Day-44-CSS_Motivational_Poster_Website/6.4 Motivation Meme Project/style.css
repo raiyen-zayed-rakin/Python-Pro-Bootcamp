@@ -1,0 +1,13 @@
+html {
+    background: black;
+}
+div {
+    align-content: center;
+}
+.pic {
+    border: 5px solid white;
+}
+.main-text {
+    color: white;
+    font-family: Baskerville;
+}
