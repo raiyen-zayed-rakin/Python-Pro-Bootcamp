@@ -28,6 +28,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Auddry_test/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-39-40-Flight_Tracker/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-41-Movie_Ranking/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-45-100_Must_Watch_Movies/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
