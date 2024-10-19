@@ -14,9 +14,9 @@ sleep(2)
 signin_btn = driver.find_element(By.CSS_SELECTOR, value=".sign-in-modal__outlet-btn")
 signin_btn.click()
 
-MY_EMAIL = "rakin.100daysofcode@gmail.com"
-MY_PASSWORD = "100daysofcoderakin"
-MY_NUMBER = "0123456789"
+MY_EMAIL = "demo"
+MY_PASSWORD = "demo"
+MY_NUMBER = "0demo"
 sleep(1)
 email_box = driver.find_element(By.CSS_SELECTOR, value="#base-sign-in-modal_session_key")
 password_box = driver.find_element(By.CSS_SELECTOR, value="#base-sign-in-modal_session_password")

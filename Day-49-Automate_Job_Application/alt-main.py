@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 
-ACCOUNT_EMAIL = "rakin.100daysofcode@gmail.com"
-ACCOUNT_PASSWORD = "100daysofcoderakin"
+ACCOUNT_EMAIL = "demo"
+ACCOUNT_PASSWORD = "demo"
 
 # Optional - Keep the browser open (helps diagnose issues if the script crashes)
 chrome_options = webdriver.ChromeOptions()
