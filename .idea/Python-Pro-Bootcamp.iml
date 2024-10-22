@@ -32,6 +32,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Day-46-Musical_Time_Machine/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-47-Amazon_Price_Tracker/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-48-Selenium/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-54_Flask/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
